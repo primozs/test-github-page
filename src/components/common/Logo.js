@@ -26,7 +26,7 @@ const Logo = ({ size, title, className, pad }) => {
 
   return (
     <Box align="center" className={classes} pad={pad}>
-      <img style={style} src="/images/favicon.png" alt={title} />
+      {/*<img style={style} src="/images/favicon.png" alt={title} />*/}
     </Box>
   );
 };
@@ -41,8 +41,7 @@ Logo.propTypes = {
 };
 
 Logo.defaultProps = {
-  size: 'medium',
-  title: 'Naviter SeeYou Cloud'
+  size: 'medium'
 };
 
 export default Logo;

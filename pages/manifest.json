@@ -1,8 +1,8 @@
 {
-  "name": "Zasebna zobna ordinacija M. Ogrin",
-  "short_name": "Zobna Ordinacija",
-  "description": "Smo zobozdravstvena ordinacija s koncesijo za otroško in mladinsko zobozdravstvo z dolgoletnimi izkušnjami, za odrasle paciente pa nudimo samoplačniške storitve.",
-  "start_url": "https://zobozdravstvo-ogrin.si",
+  "name": "Test",
+  "short_name": "Test",
+  "description": "Test",
+  "start_url": "https://Test.si",
   "display": "standalone",
   "orientation": "portrait-primary",
   "background_color": "#ffffff",

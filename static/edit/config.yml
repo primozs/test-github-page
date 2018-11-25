@@ -14,7 +14,7 @@ backend:
 #  name: github
 #  repo: primozs/test-github-page
 #  branch: master
-#  base_url: https://github.zobozdravstvo-ogrin.si
+#  base_url: https://github.testsite.si
 
 slug:
   encoding: "ascii"
