@@ -1,14 +1,16 @@
 # https://www.netlifycms.org/docs/widgets/#select
-backend:
-  name: git-gateway
-  repo: primozs/test-github-page
-  branch: master
-
-#  name: github
+#backend:
+#  name: git-gateway
 #  repo: primozs/test-github-page
 #  branch: master
-#  site_domain: quizzical-banach-4d4190.netlify.com
 
+backend:
+  name: github
+  repo: primozs/test-github-page
+  branch: master
+  site_domain: quizzical-banach-4d4190.netlify.com
+
+#backend:
 #  name: github
 #  repo: primozs/test-github-page
 #  branch: master
