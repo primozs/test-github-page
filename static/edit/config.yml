@@ -1,9 +1,11 @@
 # https://www.netlifycms.org/docs/widgets/#select
 backend:
-  name: github
-  repo: zobozdravstvo-ogrin/zobozdravstvo-ogrin.si
+  # name: github
+  name: git-gateway
+  repo: primozs/test-github-page
   branch: master
-  base_url: https://github.zobozdravstvo-ogrin.si
+#  base_url: https://github.zobozdravstvo-ogrin.si
+#a57dd8b1f714d8e2e1d29d78c3f86f33d27cf999
 
 slug:
   encoding: "ascii"

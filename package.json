@@ -7,7 +7,8 @@
   "license": "zobozdravstvo-ogrin-si",
   "scripts": {
     "start": "NODE_ENV=development batfish start",
-    "build": "NODE_ENV=production batfish build",
+    "build": "NODE_ENV=production batfish build && yarn copy:edit",
+    "copy:edit": "rsync -rtvuc --delete static/edit/ _batfish_site/edit/",
     "build-rss": "node scripts/build-rss.js",
     "style:build": "node buildscss.js",
     "serve": "batfish serve-static",
