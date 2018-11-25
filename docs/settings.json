@@ -1,0 +1,67 @@
+{
+  "contact": "## Kontakt\n**_Zasebna zobna ordinacija M. Ogrin_**\\\nPod Hruševco 33\\\n1360 Vrhnika\\\n(+386) 01 750 24 92\\\n[Google Zemlevid](https://goo.gl/maps/pwjRHLC66mt)",
+  "site_title": "Zasebna zobna ordinacija M. Ogrin",
+  "site_author": "MARIJA OGRIN - STOMATOLOGINJA",
+  "header": {
+    "links": [
+      {
+        "name": "Storitve",
+        "link": "/storitve"
+      },
+      {
+        "name": "Naročanje",
+        "link": "/narocanje"
+      },
+      {
+        "name": "Ordinacija",
+        "link": "/ordinacija"
+      },
+      {
+        "name": "Članki",
+        "link": "/clanki"
+      }
+    ]
+  },
+  "site_author_url": "https://zobozdravstvo-ogrin.si",
+  "posts": {
+    "front_limit": 6
+  },
+  "short_title": "Zobozdravstvo Ogrin",
+  "team_title": "Osebje",
+  "tel": "(+386) 01 750 24 92",
+  "footer": {
+    "headline": "",
+    "body": "",
+    "copy": "(c) zobozdravstvo-ogrin.si",
+    "links": [
+      {
+        "name": "Storitve",
+        "link": "/storitve"
+      },
+      {
+        "name": "Naročanje",
+        "link": "/narocanje"
+      },
+      {
+        "name": "Ordinacija",
+        "link": "/ordinacija"
+      },
+      {
+        "name": "Članki",
+        "link": "/clanki"
+      }
+    ]
+  },
+  "email": "info@zobozdravstvo-ogrin.si",
+  "team": [
+    {
+      "author": "Aljaž Ogrin"
+    },
+    {
+      "author": "Marija Ogrin"
+    },
+    {
+      "author": "Irena Bogataj"
+    }
+  ]
+}

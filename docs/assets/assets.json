@@ -1,0 +1,47 @@
+{
+  "manifest": {
+    "js": "/assets/manifest-48aa5f8467f77582377d.js"
+  },
+  "home": {
+    "js": "/assets/home-f9d9a9d35dcdfb7b65cb.chunk.js"
+  },
+  "author-irena-bogataj": {
+    "js": "/assets/author-irena-bogataj-c2feebf3efd906ffebac.chunk.js"
+  },
+  "author-marija-ogrin": {
+    "js": "/assets/author-marija-ogrin-d8296e3a351253bc82f0.chunk.js"
+  },
+  "clanki": {
+    "js": "/assets/clanki-3632fe43a822c48173f0.chunk.js"
+  },
+  "clanki-malcek-in-zobozdravnik-2018-08-07": {
+    "js": "/assets/clanki-malcek-in-zobozdravnik-2018-08-07-f18634a5a9ae9531bb22.chunk.js"
+  },
+  "clanki-molarno-incizivna-hipomineralizacija-2018-08-15": {
+    "js": "/assets/clanki-molarno-incizivna-hipomineralizacija-2018-08-15-e2b0d3a22455e314dc21.chunk.js"
+  },
+  "author-aljaz-ogrin": {
+    "js": "/assets/author-aljaz-ogrin-f3515f88630e177ce1d5.chunk.js"
+  },
+  "kontakt": {
+    "js": "/assets/kontakt-fb1c8a9349ebe9caad7c.chunk.js"
+  },
+  "app": {
+    "js": "/assets/app-6749d0859b981ccac3bc.js"
+  },
+  "narocanje": {
+    "js": "/assets/narocanje-0271febf0f4bbf6bb213.chunk.js"
+  },
+  "not-found": {
+    "js": "/assets/not-found-386059e96df181b621ce.chunk.js"
+  },
+  "ordinacija": {
+    "js": "/assets/ordinacija-6b08fa20283d8ea48297.chunk.js"
+  },
+  "storitve": {
+    "js": "/assets/storitve-9dda62075a43a638e872.chunk.js"
+  },
+  "vendor": {
+    "js": "/assets/vendor-6a9499f3046be9895740.js"
+  }
+}
